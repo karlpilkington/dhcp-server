@@ -2,8 +2,8 @@
 package main
 
 import (
-    "cloud-guy.net/dhcp/logging"
-    dhcp "cloud-guy.net/dhcp/dhcp4"
+    "cloud-guy.net/dhcp-server/logging"
+    dhcp "cloud-guy.net/dhcp-server/dhcp4"
 
     "net"
     "time"
